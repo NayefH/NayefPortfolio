@@ -1,0 +1,15 @@
+{
+  "about": "Über mich",
+  "skills": "Skills",
+  "vision": "Vision",
+  "contact": "Kontakt",
+  "copyright": "© 2025 Neon Future",
+  "jpBackground": "ウェブ開発者",
+
+  "sectionTexts": {
+    "about": "Ich bin Nayef Hajjaj, Student der Medieninformatik an der Berliner Hochschule für Technik mit Abschlussnote 2,3. Meine Leidenschaft gilt der Webentwicklung, insbesondere mit React, TypeScript und Bootstrap. Während meiner Zeit am Fraunhofer IPK konnte ich praktische Erfahrung im Entwickeln von Dashboards und Anwendungen sammeln.",
+    "skills": "• React & TypeScript: Moderne Web-Apps mit sauberen Komponenten\n• Bootstrap & Tailwind: Responsive und stylische UI-Designs\n• Firebase & Expo: Cross-Plattform Mobile Apps mit sicherer Speicherung\n• Verschlüsselung: AES-256, Sicherheit auf höchstem Level\n• Fullstack-Entwicklung: Vom Frontend bis zum Backend\n• VR & MINT: Innovative Anwendungen für Hochschul-Lehre",
+    "vision": "Ich möchte Technologie und Design verbinden, um intuitive und sichere digitale Erlebnisse zu schaffen. Für mich steht Innovation im Fokus, besonders im Bereich Datenschutz und User Experience. Cyberpunk inspiriert mich dabei durch seinen Stil und seine futuristische Ästhetik.",
+    "contact": "Du willst mit mir zusammenarbeiten oder hast Fragen? Schreib mir gerne eine Mail oder vernetze dich auf LinkedIn. Lass uns gemeinsam die Zukunft der digitalen Welt gestalten!"
+  }
+}
